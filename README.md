@@ -8,7 +8,7 @@
 <p align="center">
   <li align="left" style="padding-left:1000px;color:red;">🌱 I’m currently learning <b>Backend Frameworks.<b></li>
   <li align="left">💬 Ask me about <b>UI/UX design and Frontend<b></li>
-  <li align="left">📫 How to reach me <b><a href="aruntheengineer586@gmail.com">aruntheengineer586@gmail.com</a><b></li>
+  <li align="left">📫 How to reach me <b><a href="#">aruntheengineer586@gmail.com</a><b></li>
   <li align="left">⚡ Fun fact <b>Despite my tech-heavy background, I have a creative streak as a UI/UX designer.<b></li>
 </p>
     
