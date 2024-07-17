@@ -1,26 +1,26 @@
-<h1 align="center">Hi 👋, I'm ARUN S</h1>
+<h1 align="center" style="color:red;">Hi 👋, I'm ARUN S</h1>
 <h3 align="center">Passionate tech enthusiast with expertise in programming, web development, UI/UX design, data analysis and AI & ML, committed to continuous learning and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-s-coder&label=Profile%20views&color=0e75b6&style=flat" alt="arun-s-coder" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arun-s-coder" alt="arun-s-coder" /></a> </p>
 
-<p align="center">
-  <li align="left" style="padding-left:1000px;color:red;">🌱 I’m currently learning <b>Backend Frameworks.<b></li>
-  <li align="left">💬 Ask me about <b>UI/UX design and Frontend<b></li>
-  <li align="left">📫 How to reach me <b><a href="#">aruntheengineer586@gmail.com</a><b></li>
-  <li align="left">⚡ Fun fact <b>Despite my tech-heavy background, I have a creative streak as a UI/UX designer.<b></li>
-</p>
+   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <li align="left">🌱 I’m currently learning <b>Backend Frameworks.<b></li>
+   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <li align="left">💬 Ask me about <b>UI/UX design and Frontend<b></li>
+   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <li align="left">📫 How to reach me <b><a href="#">aruntheengineer586@gmail.com</a><b></li>
+   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <li align="left">⚡ Fun fact <b>Despite my tech-heavy background, I have a creative streak as a UI/UX designer.<b></li>
     
-<h3 align="left" style="color:yellow;">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arun s (b.tech)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun s (b.tech)" height="30" width="40" /></a>
-<a href="https://instagram.com/a_r_u_n_001__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_r_u_n_001__" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/arun_s_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arun_s_01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arun s 2022-2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arun s 2022-2026" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aruntheengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aruntheengineer" height="30" width="40" /></a>
+<h2 align="left" style="color:yellow;">Connect with me:</h2>
+<br>
+<p align="left"> &emsp;  &emsp;  &emsp;
+<a href="https://linkedin.com/in/arun s (b.tech)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun s (b.tech)" height="30" width="40" /></a>  &emsp; &emsp; &emsp;
+<a href="https://instagram.com/a_r_u_n_001__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_r_u_n_001__" height="30" width="40" /></a>  &emsp; &emsp; &emsp;
+<a href="https://www.codechef.com/users/arun_s_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arun_s_01" height="30" width="40" /></a>  &emsp; &emsp; &emsp;
+<a href="https://www.hackerrank.com/arun s 2022-2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arun s 2022-2026" height="30" width="40" /></a>  &emsp; &emsp; &emsp;
+<a href="https://www.leetcode.com/aruntheengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aruntheengineer" height="30" width="40" /></a> &emsp; &emsp; &emsp;
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<br>
+<h2 align="left">Languages and Tools:</h2>
 
 <table style="border: 2px solid #ccc; border-collapse: collapse; width: 100%;">
   <tr>
@@ -81,14 +81,8 @@
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a></td>
   </tr>
 </table>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arun-s-coder&show_icons=true&locale=en&layout=compact" alt="arun-s-coder" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arun-s-coder&show_icons=true&locale=en" alt="arun-s-coder" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-s-coder&" alt="arun-s-coder" /></p>
+<p><img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=arun-s-coder&show_icons=true&locale=en&layout=compact" alt="arun-s-coder" /></p>
+<p><img align="center" width=500 src="https://github-readme-stats.vercel.app/api?username=arun-s-coder&show_icons=true&locale=en" alt="arun-s-coder" /></p>
+<p><img align="center" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=arun-s-coder&" alt="arun-s-coder" /></p>
 
 
-<!---
-ARUN-S-CODER/ARUN-S-CODER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
