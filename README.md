@@ -1,7 +1,10 @@
 <h1 align="center" style="color:red;">Hi 👋, I'm ARUN S</h1>
 <h3 align="center">Passionate tech enthusiast with expertise in programming, web development, UI/UX design, data analysis and AI & ML, committed to continuous learning and innovation.</h3>
 
-<p align="left"> <img width=150 height=50 src="https://komarev.com/ghpvc/?username=arun-s-coder&label=Profile%20views&color=0e75b6&style=flat" alt="arun-s-coder" /> </p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=arun-s-coder&icon=0&color=0" alt="Visitor Count" width="170" height="55" />
+</a>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arun-s-coder" alt="arun-s-coder" /></a> </p>
 
