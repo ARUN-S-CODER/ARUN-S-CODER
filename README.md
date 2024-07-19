@@ -1,12 +1,13 @@
-<h1 align="center" style="color:red;">Hi 👋, I'm ARUN S</h1>
+<h1 align="center" >Hi 👋, I'm ARUN S</h1>
 <h3 align="center">Passionate tech enthusiast with expertise in programming, web development, UI/UX design, data analysis and AI & ML, committed to continuous learning and innovation.</h3>
-
+<br>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=arun-s-coder&icon=0&color=0" alt="Visitor Count" width="170" height="55" />
+  <img src="https://visitcount.itsvg.in/api?id=arun-s-coder&icon=0&color=0" alt="Visitor Count" width="170" height="50" />
 </a>
+<br>
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arun-s-coder" alt="arun-s-coder" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arun-s-coder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <li align="left">🌱 I’m currently learning <b>Backend Frameworks.<b></li>
    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <li align="left">💬 Ask me about <b>UI/UX design and Frontend<b></li>
@@ -95,5 +96,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arun-s-coder&icon=0&color=0)](https://visitcount.itsvg.in)
-
