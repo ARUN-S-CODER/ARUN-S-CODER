@@ -1,5 +1,5 @@
-<h1 align="center" >Hi 👋, I'm ARUN S</h1>
-<h3 align="center">Passionate tech enthusiast with expertise in programming, web development, UI/UX design, data analysis and AI & ML, committed to continuous learning and innovation.</h3>
+<h1 style="color:red;" align="center">Hi 👋, I'm ARUN S</h1>
+<h3 align="justify">&ensp; &ensp; &ensp; Passionate tech enthusiast with a diverse skill set spanning programming, web development, UI/UX design, data analysis, and AI & ML. With a strong commitment to continuous learning and innovation, I strive to push the boundaries of technology and create impactful solutions. Whether it's building robust applications, crafting intuitive user interfaces, or analyzing complex data, I am dedicated to delivering excellence in every project. My journey in the tech world is driven by curiosity, creativity, and a desire to make a difference. Let's connect and explore the endless possibilities of technology together!</h3>
 <br>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=arun-s-coder&icon=0&color=0" alt="Visitor Count" width="170" height="50" />
