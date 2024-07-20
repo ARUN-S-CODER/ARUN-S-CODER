@@ -87,6 +87,7 @@
   </tr>
 </table>
 
+## 📊 GITUB STATS
 <img src="https://github-readme-stats.vercel.app/api?username=arun-s-coder&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" width="400" height="200" />
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun-s-coder&theme=chartreuse-dark&hide_border=false" width="400" height="200" />
