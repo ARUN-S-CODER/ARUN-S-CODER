@@ -14,7 +14,7 @@
    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <li align="left">📫 How to reach me <b><a href="#">aruntheengineer586@gmail.com</a><b></li>
    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <li align="left">⚡ Fun fact <b>Despite my tech-heavy background, I have a creative streak as a UI/UX designer.<b></li>
     
-<h2 align="left" style="color:yellow;">Connect with me:</h2>
+<h2 align="left" style="color:yellow;"><br>📡 Connect with me:</h2>
 <br>
 
 <p align="left"> &emsp;  &emsp;  &emsp;
@@ -25,7 +25,7 @@
 <a href="https://www.leetcode.com/aruntheengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aruntheengineer" height="30" width="40" /></a> &emsp; &emsp; &emsp;
 </p>
 <br>
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">🛠 Languages and Tools:</h2>
 
 <table style="border: 2px solid #ccc; border-collapse: collapse; width: 100%;">
   <tr>
