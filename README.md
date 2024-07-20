@@ -1,13 +1,13 @@
 <h1 style="color:red;" align="center">Hi 👋, I'm ARUN S</h1>
-<h3 align="justify">&ensp; &ensp; &ensp; Passionate tech enthusiast with a diverse skill set spanning programming, web development, UI/UX design, data analysis, and AI & ML. With a strong commitment to continuous learning and innovation, I strive to push the boundaries of technology and create impactful solutions. Whether it's building robust applications, crafting intuitive user interfaces, or analyzing complex data, I am dedicated to delivering excellence in every project. My journey in the tech world is driven by curiosity, creativity, and a desire to make a difference. Let's connect and explore the endless possibilities of technology together!</h3>
+<h3 align="justify">&ensp; &ensp; &ensp; Passionate tech enthusiast with a diverse skill set spanning programming, web development, UI/UX design, data analysis, and AI & ML. With a strong commitment to continuous learning and innovation, I strive to push the boundaries of technology and create impactful solutions. My journey in the tech world is driven by curiosity, creativity, and a desire to make a difference. Let's connect and explore the endless possibilities of technology together!</h3>
 <br>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=arun-s-coder&icon=0&color=0" alt="Visitor Count" width="170" height="50" />
+  <img src="https://visitcount.itsvg.in/api?id=arun-s-coder&icon=0&color=0" alt="Visitor Count" width="150" height="45" />
 </a>
 <br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arun-s-coder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=arun-s-coder&theme=radical&no-frame=false&no-bg=true&margin-w=25)
 
    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <li align="left">🌱 I’m currently learning <b>Backend Frameworks.<b></li>
    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <li align="left">💬 Ask me about <b>UI/UX design and Frontend<b></li>
@@ -16,6 +16,7 @@
     
 <h2 align="left" style="color:yellow;">Connect with me:</h2>
 <br>
+
 <p align="left"> &emsp;  &emsp;  &emsp;
 <a href="https://linkedin.com/in/arun s (b.tech)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun s (b.tech)" height="30" width="40" /></a>  &emsp; &emsp; &emsp;
 <a href="https://instagram.com/a_r_u_n_001__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_r_u_n_001__" height="30" width="40" /></a>  &emsp; &emsp; &emsp;
