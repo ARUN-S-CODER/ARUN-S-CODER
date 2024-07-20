@@ -7,7 +7,7 @@
 <br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arun-s-coder&theme=radical&no-frame=false&no-bg=true&margin-w=25)
+![](https://github-profile-trophy.vercel.app/?username=ARUN-S-CODER&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <li align="left">🌱 I’m currently learning <b>Backend Frameworks.<b></li>
    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <li align="left">💬 Ask me about <b>UI/UX design and Frontend<b></li>
@@ -62,6 +62,19 @@
     </td>
   </tr>
 </table>
+
+## 📊 GITUB STATS
+![](https://github-readme-stats.vercel.app/api?username=ARUN-S-CODER&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ARUN-S-CODER&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUN-S-CODER&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ QUOTES
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ARUN-S-CODER&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <h2 align="left">🛠 Languages and Tools:</h2>
 
@@ -124,15 +137,5 @@
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a></td>
   </tr>
 </table>
-
-## 📊 GITUB STATS
-<img src="https://github-readme-stats.vercel.app/api?username=arun-s-coder&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" width="400" height="200" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arun-s-coder&theme=chartreuse-dark&hide_border=false" width="400" height="200" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-s-coder&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" height="200" />
-
-### ✍️ QUOTES
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
