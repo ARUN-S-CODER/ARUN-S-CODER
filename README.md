@@ -15,16 +15,54 @@
    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <li align="left">⚡ Fun fact <b>Despite my tech-heavy background, I have a creative streak as a UI/UX designer.<b></li>
     
 <h2 align="left" style="color:yellow;"><br>📡 Connect with me:</h2>
-<br>
 
-<p align="left"> &emsp;  &emsp;  &emsp;
-<a href="https://linkedin.com/in/arun s (b.tech)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun s (b.tech)" height="30" width="40" /></a>  &emsp; &emsp; &emsp;
-<a href="https://instagram.com/a_r_u_n_001__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_r_u_n_001__" height="30" width="40" /></a>  &emsp; &emsp; &emsp;
-<a href="https://www.codechef.com/users/arun_s_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arun_s_01" height="30" width="40" /></a>  &emsp; &emsp; &emsp;
-<a href="https://www.hackerrank.com/arun s 2022-2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arun s 2022-2026" height="30" width="40" /></a>  &emsp; &emsp; &emsp;
-<a href="https://www.leetcode.com/aruntheengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aruntheengineer" height="30" width="40" /></a> &emsp; &emsp; &emsp;
-</p>
-<br>
+<table border="3" align="center" width="100%">
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/arun s (b.tech)" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun s (b.tech)" height="100" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/a_r_u_n_001__" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_r_u_n_001__" height="100" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.codechef.com/users/arun_s_01" target="blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arun_s_01" height="100" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/arun s 2022-2026" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arun s 2022-2026" height="100" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.leetcode.com/aruntheengineer" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aruntheengineer" height="100" width="50" />
+      </a>
+    </td>
+  </tr>
+  <tr rowspan="1">
+     <td>
+      <h4 color="red">LINKEDIN</h4>
+    </td> 
+    <td>
+      <h4 color="red">INSTAGRAM</h4>
+    </td> 
+    <td>
+      <h4 color="red">CODECHEF</h4>
+    </td>
+    <td>
+      <h4 bgcolor="#fff00">HACKERRANK</h4>
+    </td>
+    <td>
+      <h4 color="red">LEETCODE</h4>
+    </td>
+  </tr>
+</table>
+
 <h2 align="left">🛠 Languages and Tools:</h2>
 
 <table style="border: 2px solid #ccc; border-collapse: collapse; width: 100%;">
