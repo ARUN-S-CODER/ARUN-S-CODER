@@ -122,7 +122,7 @@
     <th colspan="3" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">AI/ML</th>
   </tr>
   <tr>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="65" height="45"> </a></td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a></td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a></td>
   </tr>
