@@ -86,62 +86,55 @@
 
 <table style="border: 2px solid #ccc; border-collapse: collapse; width: 100%;">
   <tr>
-    <th colspan="3" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">UI/UX</th>
+    <th style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">UI/UX</th>
+    <th style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">Frontend</th>
+    <th style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">Backend</th>
+    <th style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">AI/ML</th>
+    <th style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">Other Tools</th>
   </tr>
   <tr>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a></td>
-    
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" alt="Python" width="65" height="45"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a></td>
   </tr>
 </table>
 
-<table style="border: 2px solid #ccc; border-collapse: collapse; width: 100%; margin-top: 10px;">
-  <tr>
-    <th colspan="3" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">Frontend</th>
-  </tr>
-  <tr>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a></td>
-  </tr>
-</table>
-
-<table style="border: 2px solid #ccc; border-collapse: collapse; width: 100%; margin-top: 10px;">
-  <tr>
-    <th colspan="3" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">Backend</th>
-  </tr>
-  <tr>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a></td>
-  </tr>
-</table>
-
-<table style="border: 2px solid #ccc; border-collapse: collapse; width: 100%; margin-top: 10px;">
-  <tr>
-    <th colspan="3" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">AI/ML</th>
-  </tr>
-  <tr>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="65" height="45"> </a></td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a></td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a></td>
-  </tr>
-</table>
-
-<table style="border: 2px solid #ccc; border-collapse: collapse; width: 100%; margin-top: 10px;">
-  <tr>
-    <th colspan="3" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">Other Tools</th>
-  </tr>
-  <tr>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a></td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a></td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a></td>
-  </tr>
-</table>
 
 ---
