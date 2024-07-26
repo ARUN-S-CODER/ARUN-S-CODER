@@ -107,32 +107,18 @@
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/> </a></td>
   </tr>
   <tr>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/> </a></td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a></td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> </a></td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a></td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a></td>
   </tr>
   <tr>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a></td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/> </a></td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40"/> </a></td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a></td>
   </tr>
 </table>
 
