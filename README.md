@@ -84,7 +84,7 @@
 
 <h2 align="left">🛠 Languages and Tools:</h2>
 
-<table>
+<table align="center">
   <tr>
     <th colspan="5" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">UI/UX</th>
   </tr>
@@ -100,15 +100,35 @@
 </tr>
 <tr>
   <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a></td>
+  <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.c++programming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/cad79979-305c-41cd-9600-f36a9a787cdb" alt="C++" width="40" height="40"/> </a></td>
   <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" alt="Python" width="45" height="35"/> </a></td>
   <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a></td>
+  <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.dartprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/22622ec6-71fd-4ca3-8e06-d847abfc4fc2" alt="Dart" width="40" height="40"/> </a></td>
 </tr>
-    <th colspan="3" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">Frontend</th>
-    <th colspan="4" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">Backend</th>
-    <th style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">AI/ML</th>
-    <th style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">Other Tools</th>
+  <tr>
+    <th colspan="5" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">Frontend</th>
+  </tr>
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a></td>
+  </tr>
+ <tr>
+    <th colspan="5" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">Backend</th>
+ </tr>
+ <tr>
+    <th colspan="5" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">AI/ML</th>
+ </tr>
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a></td>
+  <tr>
+    <th colspan="5" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">Other Tools</th>
+  </tr>
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a></td>
   </tr>
 </table>
+
       
 <table style="border: 2px solid #ccc; border-collapse: collapse; width: 100%;">
   <tr>
