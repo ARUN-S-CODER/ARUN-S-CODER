@@ -52,19 +52,19 @@
   </tr>
   <tr rowspan="1">
      <td>
-      <h4 color="red">LINKEDIN</h4>
+      <p color="red">LINKEDIN</p>
     </td> 
     <td>
-      <h4 color="red">INSTAGRAM</h4>
+      <p color="red">INSTAGRAM</p>
     </td> 
     <td>
-      <h4 color="red">CODECHEF</h4>
+      <p color="red">CODECHEF</p>
     </td>
     <td>
-      <h4 bgcolor="#fff00">HACKERRANK</h4>
+      <p bgcolor="#fff00">HACKERRANK</p>
     </td>
     <td>
-      <h4 color="red">LEETCODE</h4>
+      <p color="red">LEETCODE</p>
     </td>
   </tr>
 </table>
