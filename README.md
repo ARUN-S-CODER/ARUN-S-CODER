@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 style="color:red;" align="center">Hi 👋, I'm ARUN S</h1>
+<h1 style="color:red;" align="center">Hello, I’m Arun! 👋 I’m excited to connect with you.</h1>
 <h3 align="justify">&ensp; &ensp; &ensp; Passionate tech enthusiast with a diverse skill set spanning programming, web development, UI/UX design, data analysis, and AI & ML. With a strong commitment to continuous learning and innovation, I strive to push the boundaries of technology and create impactful solutions. My journey in the tech world is driven by curiosity, creativity, and a desire to make a difference. Let's connect and explore the endless possibilities of technology together!</h3>
 <br>
 <div align="center">
