@@ -120,7 +120,9 @@
     <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ddb086d5-356a-4705-9736-60acd46ca036" alt="Streamlit" width="40"  height="40" /></a></td>
+  </tr>
 </table>
 
 
-![5968534](https://github.com/user-attachments/assets/128a4468-c74b-4b77-a596-eb195c2d4e3a)
