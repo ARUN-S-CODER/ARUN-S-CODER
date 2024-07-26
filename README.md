@@ -84,6 +84,32 @@
 
 <h2 align="left">🛠 Languages and Tools:</h2>
 
+<table>
+  <tr>
+    <th colspan="5" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">UI/UX</th>
+  </tr>
+  <tr>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/3b1cb219-45c3-429a-bb9e-c72cd0e5b5c1" alt="Adobe XD" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ddb086d5-356a-4705-9736-60acd46ca036" alt="Streamlit" width="40"  height="40" /></a></td>   
+  </tr>
+<tr>
+    <th colspan="5" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">PROGRAMMING LANGUAGE</th>
+</tr>
+<tr>
+  <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a></td>
+  <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" alt="Python" width="45" height="35"/> </a></td>
+  <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a></td>
+</tr>
+    <th colspan="3" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">Frontend</th>
+    <th colspan="4" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">Backend</th>
+    <th style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">AI/ML</th>
+    <th style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">Other Tools</th>
+  </tr>
+</table>
+      
 <table style="border: 2px solid #ccc; border-collapse: collapse; width: 100%;">
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">UI/UX</th>
