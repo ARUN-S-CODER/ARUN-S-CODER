@@ -100,7 +100,7 @@
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a></td>
   </tr>
   <tr>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/3b1cb219-45c3-429a-bb9e-c72cd0e5b5c1" alt="Adobe XD" width="40" height="40"/> </a></td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a></td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> </a></td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a></td>
@@ -121,6 +121,5 @@
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a></td>
   </tr>
 </table>
-
-
 ---
+
