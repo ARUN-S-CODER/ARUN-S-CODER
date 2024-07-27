@@ -93,7 +93,7 @@
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a></td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40"/> </a></td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/3b1cb219-45c3-429a-bb9e-c72cd0e5b5c1" alt="Adobe XD" width="40" height="40"/> </a></td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ddb086d5-356a-4705-9736-60acd46ca036" alt="Streamlit" width="40"  height="40" /></a></td>   
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"><img src="https://github.com/user-attachments/assets/df3c4194-0ca8-406b-b8a0-35d6a60e6ee7" alt="Streamlit" width="45" height="45"/></td>
   </tr>
 <tr>
     <th colspan="5" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">PROGRAMMING LANGUAGE</th>
@@ -132,7 +132,8 @@
   </tr>
   <tr>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a></td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;"> <img src="https://github.com/user-attachments/assets/e7245e33-9c8d-49aa-9cf3-fced9d3a2d12" alt="Git" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;"> <img src="https://github.com/user-attachments/assets/e7245e33-9c8d-49aa-9cf3-fced9d3a2d12" alt="Nelify" width="40" height="40"/> </a></td>
+  <td align="center" style="border: 2px solid #ccc; padding: 10px;"> <img src="https://github.com/user-attachments/assets/611d616a-e498-41e2-afa9-6d13ee624f63" alt="PowerBI" width="45" height="45"/> </a></td>
   </tr>
 </table>
 
@@ -179,5 +180,3 @@
   </tr>
 </table>
 
-
-![OIP](https://github.com/user-attachments/assets/e7245e33-9c8d-49aa-9cf3-fced9d3a2d12)
