@@ -98,12 +98,14 @@
 <tr>
     <th colspan="5" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">PROGRAMMING LANGUAGE</th>
 </tr>
+
+
 <tr>
   <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a></td>
-  <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.c++programming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/cad79979-305c-41cd-9600-f36a9a787cdb" alt="C++" width="40" height="40"/> </a></td>
+  <td align="center" style="border: 2px solid #ccc; padding: 10px;"><img src="https://github.com/user-attachments/assets/96b63bed-5428-4fae-98df-9f56904f0b07" alt="C++" width="45" height="45"/></td>
   <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" alt="Python" width="45" height="35"/> </a></td>
   <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a></td>
-  <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.dartprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/22622ec6-71fd-4ca3-8e06-d847abfc4fc2" alt="Dart" width="40" height="40"/> </a></td>
+  <td align="center" style="border: 2px solid #ccc; padding: 10px;"><img src="https://github.com/user-attachments/assets/c95608f0-1af6-4c2d-a4a4-b6c6693480ce" alt="Dart" width="40" height="40"/></td>
 </tr>
   <tr>
     <th colspan="5" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">Frontend</th>
