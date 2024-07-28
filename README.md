@@ -114,6 +114,8 @@
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a></td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a></td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
   </tr>
  <tr>
     <th colspan="5" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">Backend and DataBases</th>
@@ -122,6 +124,8 @@
   <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> </a></td>
   <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a></td>
   <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a></td>
+  <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+  <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
 </tr>
  <tr>
     <th colspan="5" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">AI/ML</th>
@@ -129,6 +133,9 @@
   <tr>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a></td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a></td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+    <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
   <tr>
     <th colspan="5" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">Other Tools</th>
   </tr>
@@ -136,6 +143,8 @@
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a></td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;"> <img src="https://github.com/user-attachments/assets/e7245e33-9c8d-49aa-9cf3-fced9d3a2d12" alt="Nelify" width="40" height="40"/> </a></td>
   <td align="center" style="border: 2px solid #ccc; padding: 10px;"> <img src="https://github.com/user-attachments/assets/611d616a-e498-41e2-afa9-6d13ee624f63" alt="PowerBI" width="45" height="45"/> </a></td>
+  <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
+  <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
   </tr>
 </table>
 
