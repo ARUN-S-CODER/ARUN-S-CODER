@@ -147,3 +147,5 @@
   <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
   </tr>
 </table>
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
