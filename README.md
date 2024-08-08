@@ -148,5 +148,3 @@
   </tr>
 </table>
 
-![snake gif](https://github.com/ARUN-S-CODER/ARUN-S-CODER/blob/output/github-contribution-grid-snake.gif)
-
