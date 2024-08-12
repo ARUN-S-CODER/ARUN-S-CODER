@@ -25,7 +25,7 @@
 <table border="3" align="center" width="100%">
   <tr>
     <td align="center">
-      <a href="https://linkedin.com/in/arun s (b.tech)" target="blank">
+      <a href="https://www.linkedin.com/in/arun-s-b-tech-b26515257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun s (b.tech)" height="100" width="50" />
       </a>
     </td>
