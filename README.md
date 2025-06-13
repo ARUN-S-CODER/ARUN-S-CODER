@@ -118,7 +118,6 @@
     <th colspan="5" style="background-color: #f2f2f2; padding: 10px; border: 2px solid #ccc; text-align: center;">Backend and DataBases</th>
  </tr>
 <tr>
-  <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> </a></td>
   <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a></td>
   <td align="center" style="border: 2px solid #ccc; padding: 10px;"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a></td>
   <td align="center" style="border: 2px solid #ccc; padding: 10px;">&nbsp;</td>
