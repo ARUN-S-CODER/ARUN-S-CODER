@@ -14,7 +14,7 @@
 
    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <li align="left">🌱 I’m currently learning <strong>Backend Frameworks.</strong></li>
    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <li align="left">💬 Ask me about <b>UI/UX design and Frontend<b></li>
-   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <li align="left">📫 How to reach me <b><img width="15" height="15" src=https://github.com/user-attachments/assets/128a4468-c74b-4b77-a596-eb195c2d4e3a><a href="#">aruntheengineer586@gmail.com</a><b></li>
+   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <li align="left">📫 How to reach me <b><img width="15" height="15" src=https://github.com/user-attachments/assets/128a4468-c74b-4b77-a596-eb195c2d4e3a><a href="#">arunprofessional01@gmail.com/a><b></li>
    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <li align="left">⚡ Fun fact <b>Despite my tech-heavy background, I have a creative streak as a UI/UX designer.<b></li>
     
 <h2 align="left" style="color:yellow;"><br>📡 Connect with me:</h2>
